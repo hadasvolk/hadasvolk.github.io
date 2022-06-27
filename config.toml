@@ -1,6 +1,7 @@
 baseURL = "https://hadasvolk.github.io"
 title = "HadasVolkov"
 theme = "hugo-coder"
+publishDir = "docs"
 languageCode = "en"
 defaultContentLanguage = "en"
 paginate = 20
