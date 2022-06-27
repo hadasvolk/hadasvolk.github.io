@@ -1,4 +1,4 @@
-baseURL = "https://hadasvolk.github.io"
+baseURL = "https://hadasvolk.me"
 title = "HadasVolkov"
 theme = "hugo-coder"
 publishDir = "docs"
